@@ -1,0 +1,21 @@
+US-CERT: The United States Computer Emergency Readiness Team (https://www.us-cert.gov/) is a trusted source for cyber threat information. They provide alerts, tips, and detailed analysis reports on significant security incidents, vulnerabilities, and cyber threats.
+
+Security Affairs (https://securityaffairs.co/): This website offers daily news, articles, and analysis on cybersecurity and hacking incidents worldwide. It covers a range of topics, including data breaches, cyber attacks, malware, and cybercrime.
+
+DataBreaches.net (https://www.databreaches.net/): This website specifically focuses on data breaches and security incidents. It provides timely information and analysis on data breaches affecting various industries, including healthcare, finance, and technology.
+
+Cyber Security Intelligence (https://cybersecurityintelligence.com/): CSI offers a comprehensive platform for cybersecurity news, analysis, and insights. They cover a wide range of security incidents, cyber attacks, and also provide resources for cybersecurity professionals.
+
+Threatpost (https://threatpost.com/): Threatpost is a leading source for cybersecurity news, analysis, and research. They cover emerging threats, vulnerabilities, data breaches, and provide in-depth analysis of significant security incidents.
+
+Krebs on Security (https://krebsonsecurity.com/): Run by renowned security researcher Brian Krebs, this website offers insights and investigative reports on cybercrime and security breaches. It covers a range of topics, including phishing, malware, and cybercriminal activities.
+
+SecurityWeek (https://www.securityweek.com/): SecurityWeek is a popular source for cybersecurity news, analysis, and research. They cover a wide rangeMultiplier range of topics, including cyber attacks, data breaches, vulnerability disclosures, and emerging security technologies.
+
+Dark Reading (https://www.darkreading.com/): Dark Reading provides in-depth coverage of cybersecurity topics, including security incidents, cyber threats, and defensive strategies. They offer news, analysis, and insights for information security professionals.
+
+Infosecurity Magazine (https://www.infosecurity-magazine.com/): This online magazine offers a wealth of cybersecurity news, features, and opinion pieces. They cover security incidents, data breaches, and provide insights into the latest security technologies and strategies.
+
+Naked Security (https://nakedsecurity.sophos.com/): Run by Sophos, a cybersecurity company, Naked Security provides straightforward cybersecurity advice and news. They cover security incidents, offer tips for staying secure, and provide insights into the latest cyber threats.
+
+6/6 12:11
