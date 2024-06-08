@@ -10,6 +10,6 @@ metadata :
 spec : 
   containers :
     - name : tomcat-container 
-      image : vishymails/tomcatimage:1.0 
+      image : umranij/cyber-deploy:1.0 
 
       
